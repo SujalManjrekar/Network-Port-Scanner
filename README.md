@@ -29,7 +29,7 @@ A lightweight and multithreaded TCP network port scanner built with Python for c
 Clone the repository:
 
 ```bash
-git clone https://github.com/SujalManjrekar/python-network-port scanner.git
+https://github.com/SujalManjrekar/Network-Port-Scanner.git
 cd python-network-port-scanner
 ```
 
